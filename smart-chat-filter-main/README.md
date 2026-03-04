@@ -1,8 +1,5 @@
-# Welcome to your  project
+# Welcome to your project
 
-## Project info
-
-**Use **
 
 **Use your preferred IDE**
 
@@ -26,11 +23,6 @@ npm i
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
 
 **Use GitHub Codespaces**
 
@@ -50,8 +42,4 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-
-## Can I connect a custom domain to my  project?
-
-Yes, you can!
 
